@@ -1,0 +1,11 @@
+{
+  "extends": "./node_modules/aurelia-tools/.eslintrc.json",
+  "parserOptions": {
+    
+  },
+  "rules": {
+    "quotes": ["warn", "single"],
+    "indent": ["warn", 4],
+    "camelcase": "warn"
+  }
+}
